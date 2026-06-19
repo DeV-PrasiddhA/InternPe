@@ -14,6 +14,10 @@ A machine learning project that predicts the likelihood of diabetes based on pat
 
 A regression-based machine learning project that estimates the market value of cars using various vehicle attributes.
 
+### 3. IPL score Prediction
+
+A machine learning project that predicts the likelihood of a team winning an IPL match based on past records.
+
 ---
 
 ## Repository Structure
