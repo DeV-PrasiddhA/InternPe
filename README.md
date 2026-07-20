@@ -25,6 +25,7 @@ A machine learning project that predicts the likelihood of a team winning an IPL
 ```text
 ├── Diabetes-Prediction/
 ├── Car-Price-Prediction/
+├── IPL-score-Prediction/
 └── README.md
 ```
 
